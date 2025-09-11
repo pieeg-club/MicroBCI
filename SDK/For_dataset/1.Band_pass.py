@@ -38,7 +38,7 @@ lowcut = 8  # Low cutoff (Hz)
 highcut = 12   # High cutoff (Hz)
 
 # -----------------------------
-# Select channel 8
+# Select channel for visualisation   
 # -----------------------------
 ch8 = df['ch2'].values
 
