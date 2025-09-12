@@ -19,5 +19,5 @@ Connect the MicroBCI shield to the Nucleo Board and after that connect the devic
 To measure the EEG need also EEG cap kit or EMG   
 Connection for EEG provided below   
 <div align="center">
-  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connection.png" alt="Connection View" width="400">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connections.bmp" alt="Connection View" width="400">
 </div>
