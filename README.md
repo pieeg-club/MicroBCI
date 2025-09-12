@@ -45,4 +45,13 @@ The process of recording an EEG signal from an electrode (Fz) with eyes open and
 
 
 
+#### Citation  
+In the process  
+
+
+#### Contacts   
+http://pieeg.com/  
+[LinkedIn](https://www.linkedin.com/company/96475004/admin/feed/posts/)   
+[Youtube](https://www.youtube.com/channel/UCVF-3Bp34LINLOQsyWNpcow)
+  
 
