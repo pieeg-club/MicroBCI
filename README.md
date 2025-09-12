@@ -21,3 +21,28 @@ Connection for the EEG is provided below
 <div align="center">
   <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connections.bmp" alt="Connection View" width="600">
 </div>
+
+# Dataset Samples and Data Evaluation
+##Dataset 
+Samples can be found [here](https://github.com/pieeg-club/MicroBCI/tree/main/Dataset)  Dry Eelctrodes, without Gel     
+Artifact test
+The process of measuring chewing using dry electrodes (Fz). Chewing occurred in the following sequence: 4 times, 3 times, 2 times, and 1 time, and the same for the blinking process. The y- axis is the processed EEG signal after passing filter bands of 1-40 Hz in microvolts and with 250 samples per second.  Data after band-pass filter 0.5-40 Hz   
+<div align="center">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/EMG.bmp" alt="emg" width="600">
+</div>
+
+and blinking artifacts, the same protocol, electrodes located on the forehead.  Data after band-pass filter 0.5-40 Hz       
+<div align="center">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/EOG.bmp" alt="emg" width="600">
+</div>
+
+Alpha test
+The process of recording an EEG signal from an electrode (Fz) with eyes open and closed. The y- axis is the processed EEG signal after passing filter bands of 8-12Hz in microvolts and with 250 samples per second. Data after band-pass filter 8-12 Hz  
+<div align="center">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/Alpha_8_12Hz.bmp" alt="emg" width="600">  
+</div>
+
+
+
+
+
