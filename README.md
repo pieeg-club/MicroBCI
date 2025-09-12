@@ -16,8 +16,8 @@ Step-by-Step Manual in this Video
 
 # How connect
 Connect the MicroBCI shield to the Nucleo Board and after that connect the device to a battery (power supply) and connect the electrodes. Full galvanic isolation from mains is required.  
-To measure the EEG need also EEG cap kit or EMG   
-Connection for EEG provided below   
+To measure the EEG need also EEG cap kit for [dry](https://pieeg.com/cap-eeg-kit/) or wet[https://pieeg.com/cap-eeg-kit-8-channels-with-wet-electrodes/] electrodes or EMG [kit](https://pieeg.com/kit-to-measure-emg-ecg-ekg/)      
+Connection for the EEG is provided below     
 <div align="center">
   <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connections.bmp" alt="Connection View" width="600">
 </div>
