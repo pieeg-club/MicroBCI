@@ -14,4 +14,10 @@ Step-by-Step Manual in this Video
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/Mobile_SDK) for Mobile Phone   
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/SDK) for Python script   
 
-
+# How connect
+Connect the MicroBCI shield to the Nucleo Board and after that connect the device to a battery (power supply) and connect the electrodes. Full galvanic isolation from mains is required.  
+To measure the EEG need also EEG cap kit or EMG   
+Connection for EEG provided below   
+<div align="center">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connection.png" alt="Connection View" width="400">
+</div>
