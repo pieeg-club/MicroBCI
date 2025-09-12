@@ -10,8 +10,8 @@ First, upload the [.hex](https://github.com/pieeg-club/MicroBCI/blob/main/Framew
 to the Nucle Board via the Micro USB cable Via [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)  
 Step-by-Step Manual in this Video    
 
-
-SDK for Mobile Phone 
-SDK for Python script 
+# Signal Processing 
+[SDK](https://github.com/pieeg-club/MicroBCI/tree/main/Mobile_SDK) for Mobile Phone   
+[SDK](https://github.com/pieeg-club/MicroBCI/tree/main/SDK) for Python script   
 
 
