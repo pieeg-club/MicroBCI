@@ -23,7 +23,7 @@ Connection for the EEG is provided below
 </div>
 
 # Dataset Samples and Data Evaluation
-##Dataset 
+## Dataset   
 Samples can be found [here](https://github.com/pieeg-club/MicroBCI/tree/main/Dataset)  Dry Eelctrodes, without Gel     
 Artifact test
 The process of measuring chewing using dry electrodes (Fz). Chewing occurred in the following sequence: 4 times, 3 times, 2 times, and 1 time, and the same for the blinking process. The y- axis is the processed EEG signal after passing filter bands of 1-40 Hz in microvolts and with 250 samples per second.  Data after band-pass filter 0.5-40 Hz   
