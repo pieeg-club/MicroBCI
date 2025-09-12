@@ -54,4 +54,7 @@ http://pieeg.com/
 [LinkedIn](https://www.linkedin.com/company/96475004/admin/feed/posts/)   
 [Youtube](https://www.youtube.com/channel/UCVF-3Bp34LINLOQsyWNpcow)
   
-
+#### Support
+PiEEG [Discord](https://discord.gg/JVBn9HXyRs)  
+pieeg.pieeg@com 
+  
