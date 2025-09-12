@@ -36,7 +36,7 @@ and blinking artifacts, the same protocol, electrodes located on the forehead.  
   <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/EOG.bmp" alt="emg" width="600">
 </div>
 
-Alpha test
+### Alpha test  
 The process of recording an EEG signal from an electrode (Fz) with eyes open and closed. The y- axis is the processed EEG signal after passing filter bands of 8-12Hz in microvolts and with 250 samples per second. Data after band-pass filter 8-12 Hz  
 <div align="center">
   <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/Alpha_8_12Hz.bmp" alt="emg" width="600">  
