@@ -10,7 +10,7 @@ to the Nucle Board via the Micro USB cable Via [STM32CubeProgrammer](https://www
 Step-by-Step Manual in this Video on [YouTube](https://youtu.be/crqOmnJ3Hjg)    
 Docs [Manual](https://pieeg.com/docs/docs/microbci/)      
 
-Avaialble on the [Market](https://pieeg.com/microbci/)   
+Available on the [Market](https://pieeg.com/microbci/)   
 # Signal Processing 
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/Mobile_SDK) for Mobile Phone   
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/SDK) for Python script   
