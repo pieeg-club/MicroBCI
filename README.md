@@ -7,7 +7,7 @@
 # Easy start
 First, upload the [.hex](https://github.com/pieeg-club/MicroBCI/blob/main/Framework/Micro_BCI.hex)   file and the [Stack](https://github.com/pieeg-club/MicroBCI/blob/main/Framework/stm32wb5x_BLE_Stack_full_fw.bin)    
 to the Nucle Board via the Micro USB cable Via [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)  
-Step-by-Step Manual in this Video (in the process)      
+Step-by-Step Manual in this Video on [YouTube](https://youtu.be/crqOmnJ3Hjg)    
 
 # Signal Processing 
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/Mobile_SDK) for Mobile Phone   
@@ -45,7 +45,7 @@ The process of recording an EEG signal from an electrode (Fz) with eyes open and
 
 
 #### Citation  
-In the process  
+Rakhmatulin, I. Low-Cost Shield MicroBCI to Measure EEG with STM32. Preprints 2025, 2025091345. https://www.preprints.org/manuscript/202509.1345/v1   
 
 
 #### Contacts   
