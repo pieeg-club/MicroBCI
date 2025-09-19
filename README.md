@@ -10,6 +10,12 @@ to the Nucle Board via the Micro USB cable Via [STM32CubeProgrammer](https://www
 Step-by-Step Manual in this Video on [YouTube](https://youtu.be/crqOmnJ3Hjg)    
 Docs [Manual](https://pieeg.com/docs/docs/microbci/)      
 
+MicroBCI connects to the Nucleo Board. Pay attention to the right connection.    
+<div align="center">
+  <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/connect.png" alt="General View" width="400">
+</div> 
+
+
 Available on the [Market](https://pieeg.com/microbci/)   
 # Signal Processing 
 [SDK](https://github.com/pieeg-club/MicroBCI/tree/main/Mobile_SDK) for Mobile Phone   
