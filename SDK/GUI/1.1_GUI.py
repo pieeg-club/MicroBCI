@@ -14,7 +14,7 @@ address = "00:80:E1:27:96:0B"
 fs = 250.0  # Sampling frequency
 lowcut = 1.0
 highcut = 40.0
-order = 4
+order = 6
 
 nyquist = 0.5 * fs
 low = lowcut / nyquist
@@ -41,6 +41,7 @@ data_before_only_for_band_pass = [[0 for _ in range(250)] for _ in range(8)]
 # ---------------------
 # Matplotlib setup
 # ---------------------
+
 plt.ion()
 fig, axes = plt.subplots(8, 1, figsize=(15, 12), sharex=True)
 
