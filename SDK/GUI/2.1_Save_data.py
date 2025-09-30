@@ -52,12 +52,14 @@ async def main(address):
                     data_df.loc[len(data_df)] = data_for_graph
                     data_for_graph = []
 
-                    if len(data_df) == 1000:
+                    if len(data_df) == 10000:
                         elapsed = time.perf_counter() - start_time
+
+                        #print(f"✅ Data saved to {filename}")
+                        print(f"⏱ Elapsed time: {elapsed:.2f} seconds")
                         filename = "EEG_datas.xlsx"
                         data_df.to_excel(filename, index=False)
-                        print(f"✅ Data saved to {filename}")
-                        print(f"⏱ Elapsed time: {elapsed:.2f} seconds")
+
                         stop_event.set()  # signal main loop to stop
                         return
 
