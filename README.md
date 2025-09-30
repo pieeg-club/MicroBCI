@@ -4,7 +4,7 @@
   <img src="https://github.com/pieeg-club/MicroBCI/blob/main/Images/micro_bci.png" alt="General View" width="400">
 </div>
 
-Available soon on the [Market](https://pieeg.com/microbci/)   
+Available on the [Market](https://pieeg.com/microbci/)   
 
 # Easy start
 Step-by-Step Manual in this Video on [YouTube](https://youtu.be/crqOmnJ3Hjg)    
