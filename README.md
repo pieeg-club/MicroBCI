@@ -11,6 +11,9 @@ Step-by-Step Manual in this Video on [YouTube](https://youtu.be/crqOmnJ3Hjg)
 Step-by-Step [PDF Manual](https://github.com/pieeg-club/MicroBCI/blob/main/Manuals/Micro_BCI_How_To_Start.pdf)    
 Docs [Manual](https://pieeg.com/docs/docs/microbci/)      
 
+ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
+
 First, upload the [.hex](https://github.com/pieeg-club/MicroBCI/blob/main/Framework/Micro_BCI.hex)   file and the [Stack](https://github.com/pieeg-club/MicroBCI/blob/main/Framework/stm32wb5x_BLE_Stack_full_fw.bin)    
 to the Nucle Board via the Micro USB cable Via [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)    
 
